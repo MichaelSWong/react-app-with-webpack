@@ -1,0 +1,8 @@
+{
+    "parser": "typescript",
+    "singleQuote": true,
+    "printWidth": 80,
+    "trailingComma": "all",
+    "semi": true,
+    "jsxSingleQuote": true
+}
